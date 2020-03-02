@@ -16,7 +16,7 @@ categories = ["cryptography"]
 crate-type = ["lib"]
 
 [dependencies]
-paillier = { git = "https://github.com/KZen-networks/rust-paillier", rev = "cd45ed4"}
+paillier = { git = "https://github.com/jasonh-ca/rust-paillier", rev = "cd45ed4"}
 ring = "0.13"
 rand = "0.5"
 rayon = "1.0"
